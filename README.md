@@ -2,9 +2,7 @@
 
 # Hi, I'm Qian'an Huang 👋
 
-**Multimodal/VLA Post-Training Engineer** · NUS MComp 2026
-
-*Making sense of the AI chaos — one dataset at a time*
+**Multimodal/VLA Post-Training** · NUS MComp 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-hqa--shu-181717?logo=github)](https://github.com/hqa-shu)
 [![Email](https://img.shields.io/badge/Email-qiananhuang%40outlook.com-0078D4?logo=outlook)](mailto:qiananhuang@outlook.com)
