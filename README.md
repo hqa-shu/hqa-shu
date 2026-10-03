@@ -8,9 +8,11 @@ Open to opportunities in **model training, data curation and pipelines, and rela
 
 ### [Sports Vision-Language Datasets](https://github.com/hqa-shu/sport-vlm-datasets)
 
-Find and compare sports datasets for **video QA, action understanding, and VLM fine-tuning**.
+A bilingual index of **33 sports resources** for video QA, action understanding, and VLM fine-tuning, with a **Python CLI for search, JSON/CSV export, and metadata audit**.
 
-[Explore the resource](https://github.com/hqa-shu/sport-vlm-datasets) · [Reuse the JSON catalog](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/data/datasets.json) · [Suggest a correction](https://github.com/hqa-shu/sport-vlm-datasets/issues/new/choose)
+The tooling includes Chinese/English sport filters and **16 offline tests**. Source-review limits are recorded in the catalog.
+
+[Try the data tools](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/USAGE.md) · [Browse the catalog](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/CATALOG.md) · [Contribute](https://github.com/hqa-shu/sport-vlm-datasets/issues/new/choose)
 
 **Tools & experience:** Python · PyTorch · computer vision · graph neural networks.
 
