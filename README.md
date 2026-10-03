@@ -1,42 +1,32 @@
-<div align="center">
+# Qian'an Huang
 
-# Hi, I'm Qian'an Huang 👋
+**Multimodal AI · Vision-language-action (VLA) post-training · NUS MComp**
 
-**Multimodal/VLA Post-Training** · NUS MComp 2026
+I work on multimodal AI and organize research resources to make them easier to compare and use. My interests include vision-language models (VLMs), VLA post-training, and practical AI agents.
 
-[![GitHub](https://img.shields.io/badge/GitHub-hqa--shu-181717?logo=github)](https://github.com/hqa-shu)
-[![Email](https://img.shields.io/badge/Email-qiananhuang%40outlook.com-0078D4?logo=outlook)](mailto:qiananhuang@outlook.com)
+Mathematics background at Shanghai University → Master of Computing at the National University of Singapore (2026).
 
-</div>
+## Featured open resource
 
----
+### [Sport-VLM-Datasets](https://github.com/hqa-shu/sport-vlm-datasets)
 
-### 🔬 About Me
+A curated index of **sports vision-language datasets and benchmarks** for video question answering, action understanding, and VLM fine-tuning.
 
-- 🎓 BSc Mathematics @ Shanghai University → MComp @ **NUS** (Aug 2026)
-- 🧠 Focused on **multimodal/VLA post-training** — applied, not just research
-- 🔍 Core strength: penetrating analysis + systematic organization + clear expression
-- 🤖 Building an AI agent matrix to automate the boring stuff
+- Compare resources across football, tennis, badminton, basketball, and fitness.
+- Find original papers and dataset access paths, with preparation notes and evidence caveats.
+- Browse the Chinese catalog with an English overview, or reuse the [structured JSON index](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/data/datasets.json).
+- Help improve the resource: [suggest a dataset or report a correction](https://github.com/hqa-shu/sport-vlm-datasets/issues/new/choose).
 
-### 🛠️ Tech Stack
+## Research interests
 
-`Python` `PyTorch` `Graph Neural Networks` `Multi-Omics` `Computer Vision` `NLP` `AI Agents`
+- **Multimodal post-training:** data curation, supervised fine-tuning, and evaluation.
+- **VLA and embodied AI:** connecting perception, language, and action.
+- **AI agents:** useful workflows with clear, inspectable outputs.
 
-### 🚀 Featured Projects
+Tools and experience: Python · PyTorch · computer vision · graph neural networks · multimodal learning.
 
-| Project | Description |
-|---------|-------------|
-| [**sport-vlm-datasets**](https://github.com/hqa-shu/sport-vlm-datasets) | Curated list of 32 sports vision-language datasets (S/A/B/C tiered) |
-| [**MODPN**](https://github.com/hqa-shu/MODPN) | Dual-Network Graph for multi-omics disease prediction (BRCA + ROSMAP) |
+## Connect
 
-### 📊 GitHub Stats
+For research discussions, resource corrections, or collaboration, start a conversation through [GitHub Issues](https://github.com/hqa-shu/sport-vlm-datasets/issues).
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hqa-shu&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <i>「AI の混沌を貫き、整理し、表現する」</i>
-</div>
+欢迎交流多模态模型、VLA 后训练与体育视频理解；中英文均可。
