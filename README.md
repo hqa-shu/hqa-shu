@@ -1,35 +1,31 @@
 # Qian'an Huang
 
-**Model training · Multimodal data · AI development · NUS MComp**
+**NUS MComp · Model training · AI data · AI development**
 
-I organize multimodal research resources to make them easier to compare and use. I am interested in **model training, data curation and pipelines, and related AI development**, including vision-language models (VLMs), vision-language-action (VLA) post-training, and practical AI agents.
+Open to opportunities in **model training, data curation and pipelines, and related software / AI engineering**. My interests include multimodal models, post-training, and VLA.
 
-Mathematics background at Shanghai University → Master of Computing at the National University of Singapore (2026).
+## Featured work
 
-## Featured open resource
+### [Sports Vision-Language Datasets](https://github.com/hqa-shu/sport-vlm-datasets)
 
-### [Sport-VLM-Datasets](https://github.com/hqa-shu/sport-vlm-datasets)
+Find and compare sports datasets for **video QA, action understanding, and VLM fine-tuning**.
 
-A curated index of **sports vision-language datasets and benchmarks** for video question answering, action understanding, and VLM fine-tuning.
+[Explore the resource](https://github.com/hqa-shu/sport-vlm-datasets) · [Reuse the JSON catalog](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/data/datasets.json) · [Suggest a correction](https://github.com/hqa-shu/sport-vlm-datasets/issues/new/choose)
 
-- Compare resources across football, tennis, badminton, basketball, and fitness.
-- Find original papers and dataset access paths, with preparation notes and evidence caveats.
-- Browse the Chinese catalog with an English overview, or reuse the [structured JSON index](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/data/datasets.json).
-- Help improve the resource: [suggest a dataset or report a correction](https://github.com/hqa-shu/sport-vlm-datasets/issues/new/choose).
+**Tools & experience:** Python · PyTorch · computer vision · graph neural networks.
 
-## Roles and interests
+<details>
+<summary><b>Background & interests</b></summary>
 
-- **Model training:** supervised fine-tuning, post-training, and evaluation.
-- **Data work:** multimodal data curation, quality checks, and reproducible preparation pipelines.
-- **AI development:** model integration, evaluation tools, and practical agent workflows.
-- **VLA and embodied AI:** a research interest in connecting perception, language, and action.
+Mathematics at Shanghai University → Master of Computing at the National University of Singapore (2026).
 
-Open to opportunities in **model training, AI data, and related software / AI engineering**. I am happy to discuss development roles that support training or data workflows.
+- **Training:** supervised fine-tuning, post-training, and evaluation.
+- **Data:** multimodal curation, quality checks, and reproducible preparation.
+- **Development:** model integration, evaluation tools, and practical agents.
+- **VLA:** connecting perception, language, and action.
 
-Tools and experience: Python · PyTorch · computer vision · graph neural networks · multimodal learning.
+These are areas of interest; public work is linked above.
 
-## Connect
+</details>
 
-For research discussions, resource corrections, or collaboration, start a conversation through [GitHub Issues](https://github.com/hqa-shu/sport-vlm-datasets/issues).
-
-欢迎交流模型训练、数据处理与 AI 开发机会，也欢迎讨论 VLA 后训练与体育视频理解；中英文均可。
+欢迎交流训练、数据和相关开发岗位；中英文均可。 [Start a conversation](https://github.com/hqa-shu/sport-vlm-datasets/issues)
