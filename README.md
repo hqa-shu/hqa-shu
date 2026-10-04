@@ -1,10 +1,20 @@
 # Qian'an Huang
 
-**NUS MComp · Model training · AI data · AI development**
+**NUS MComp · AI agents & evaluation · Model training · Multimodal data**
 
-Open to opportunities in **model training, data curation and pipelines, and related software / AI engineering**. My interests include multimodal models, post-training, and VLA.
+Open to opportunities in **model training, data curation and pipelines, and related software / AI engineering**. I build practical tools for AI workflows and explore multimodal models, post-training, and VLA.
 
 ## Featured work
+
+### [DSH Review Mode — under active development](https://github.com/hqa-shu/dsh-review-mode)
+
+An experimental **DeepSeek Harness plugin** that gives AI conversations an independent review: quoted evidence, goal-drift analysis, and concrete advice in a dedicated side panel. It reads local DSH and Codex conversations and separates the reviewer context from the task agent.
+
+**Engineering focus:** JavaScript / Node.js · plugin integration · bounded evidence · session projections · observable UI states · regression testing.
+
+**Status:** actively under development; compatibility and review quality are still being validated. The repository documents installation, configuration, model-processing privacy, known test failures, and the roadmap.
+
+[Explore the prototype](https://github.com/hqa-shu/dsh-review-mode) · [中文说明](https://github.com/hqa-shu/dsh-review-mode/blob/main/README.zh-CN.md) · [Architecture](https://github.com/hqa-shu/dsh-review-mode/blob/main/docs/ARCHITECTURE.md)
 
 ### [Sports Vision-Language Datasets](https://github.com/hqa-shu/sport-vlm-datasets)
 
@@ -14,7 +24,7 @@ The tooling includes Chinese/English sport filters and **16 offline tests**. Sou
 
 [Try the data tools](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/USAGE.md) · [Browse the catalog](https://github.com/hqa-shu/sport-vlm-datasets/blob/main/CATALOG.md) · [Contribute](https://github.com/hqa-shu/sport-vlm-datasets/issues/new/choose)
 
-**Tools & experience:** Python · PyTorch · computer vision · graph neural networks.
+**Tools & experience:** Python · JavaScript / Node.js · PyTorch · computer vision · graph neural networks.
 
 <details>
 <summary><b>Background & interests</b></summary>
@@ -30,4 +40,4 @@ These are areas of interest; public work is linked above.
 
 </details>
 
-欢迎交流训练、数据和相关开发岗位；中英文均可。 [Start a conversation](https://github.com/hqa-shu/sport-vlm-datasets/issues)
+欢迎交流 AI Agent、评估工具、模型训练与多模态数据；中英文均可。 [Start a conversation](https://github.com/hqa-shu/sport-vlm-datasets/issues)
